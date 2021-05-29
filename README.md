@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor Rono
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me victorrono18@gmail.com
 
 
