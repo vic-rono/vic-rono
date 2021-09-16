@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Victor Rono
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning MERN.
+- 🌱 I also have an interest in Network Automation.
 - 📫 How to reach me victorrono18@gmail.com
 
 
