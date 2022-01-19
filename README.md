@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Rono
 - 🌱 I’m currently learning microservices.
-- 🌱 I also have an interest in Network Automation.
+- 🌱 I also have an interest in Network Automation && Security.
 - 📫 How to reach me victorrono18@gmail.com
 
 
