@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor Rono
-- 🌱 I’m currently learning microservices.
+- 🌱 I’m currently learning Yes.
 - 🌱 I also have an interest in Network Automation && Security.
 - 📫 How to reach me victorrono18@gmail.com
 
